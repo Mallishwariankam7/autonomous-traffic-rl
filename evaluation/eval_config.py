@@ -1,0 +1,12 @@
+EVAL_EPISODES = 20
+MAX_STEPS = 1200
+
+SPAWN_PROB = {
+    "N": 0.85,
+    "S": 0.85,
+    "E": 0.75,
+    "W": 0.75
+}
+
+LANE_CAPACITY = 50
+SEED_BASE = 100
